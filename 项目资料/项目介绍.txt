@@ -1,0 +1,6 @@
+---------------------------------原框架laravue
+https://xueyuanjun.com/post/20010
+----github地址：https://github.com/tuandm/laravue
+
+---------------------------------
+i: & cd I:\work\project\laravel\hc-laravue
